@@ -1,0 +1,1 @@
+This is a simple database or student information website with CRUD functionality. It is based on the MERN (MongoDB, Express, React, Nodejs) stack and Mongoose was used for the Database schema mapping.
